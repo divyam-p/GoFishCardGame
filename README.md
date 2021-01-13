@@ -13,9 +13,11 @@
 
 <p align="center">
     <img src="readme_imgs/" alt="Image">
+<p align="center">
     <img src="readme_imgs/" alt="Image">
+<p align="center">
     <img src="readme_imgs/" alt="Image">
-<br/> 
+<br/>
 
 # Acknowledgements 
 Made By: 
