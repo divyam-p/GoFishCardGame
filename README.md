@@ -12,11 +12,26 @@
 - #### How the game starts  
 
 <p align="center">
-    <img src="readme_imgs/" alt="Image">
+    <img src="readme_imgs/pic1" alt="Image">
 <p align="center">
-    <img src="readme_imgs/" alt="Image">
+    <img src="readme_imgs/pic2" alt="Image">
+    
+- #### Instructions 
+
 <p align="center">
-    <img src="readme_imgs/" alt="Image">
+    <img src="readme_imgs/pic3" alt="Image">
+<br/>
+
+- #### Computer Player Turn 
+
+<p align="center">
+    <img src="readme_imgs/pic4" alt="Image">
+<br/>
+   
+- #### Human Player Turn 
+
+<p align="center">
+    <img src="readme_imgs/pic5" alt="Image">
 <br/>
 
 # Acknowledgements 
